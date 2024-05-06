@@ -1,3 +1,5 @@
 Youtube tutorial = https://www.youtube.com/watch?v=eLy74j0KCrY&list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om&index=6
 
 Github = https://github.com/AIAnytime/Phi-2-Fine-Tuning/blob/main/phi2%20ft.ipynb
+
+chat = https://chat.openai.com/c/b436e412-12c5-4f2d-88b5-6b3cd4e19ec5
